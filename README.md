@@ -50,8 +50,7 @@ Upon submitting the task, the **admin and user side, the 'completed table' gets 
 ### So now the admin will click **approve task** , a popover will appear which displays the **Proof of Work** entered by the user, upon satisfaction the admin will approve the task  
 ![admin](public/admin_approve_task_dialog.png)
 
-### Now in the admin and user side, the **approved table** gets populated.  
-![admin](public/admin_approved_task_table.png)
+
 
 # To run the app
 ## Create a .env file with
