@@ -22,8 +22,7 @@ As you can see, there are 3 tables:
 See the below example to know how it works.
 
 ## Example
-### Admin:  
-![Admin](public/admin_table.png)  
+### Admin:   
 
 Say a cabinet member wants to assign a **task**
 he/she will fill this form below  
@@ -45,14 +44,13 @@ he/she will view a popover, which asks for **Proof of Work**, i.e., a proof that
 
 Upon submitting the task, the **admin and user side, the 'completed table' gets populated**
 ### Admin side:  
-![admin](public/admin_completed_task.png)
+
 
 
 ### So now the admin will click **approve task** , a popover will appear which displays the **Proof of Work** entered by the user, upon satisfaction the admin will approve the task  
 ![admin](public/admin_approve_task_dialog.png)
 
-### Now in the admin and user side, the **approved table** gets populated.  
-![admin](public/admin_approved_task_table.png)
+
 
 # To run the app
 ## Create a .env file with
