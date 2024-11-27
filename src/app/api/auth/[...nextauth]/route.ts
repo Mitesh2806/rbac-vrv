@@ -5,7 +5,7 @@ import User from "@/models/user";
 
 
 
-let url = "http://localhost:3000"
+let url = "https://rbac-vrv-theta.vercel.app"
 export const authOptions: any = {
   
   providers: [
